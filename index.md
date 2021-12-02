@@ -17,6 +17,8 @@ Intro to Software Engineering, Systems Programming, Computer Networks and Data, 
 **Notable Math and Sciences Coursework:**<br>
 Multivariable Calculus, Elementary Stochastic Processes, Applied Linear Algebra, Intro to Complex Variables, Numerical Analysis 1/2, Physics for Engineers 1/2
 
+[View Full Resume](https://loganstracy.github.io/documents/CS%20Resume%20Logan%20Tracy.pdf)
+
 ## Projects
 
 There are currently two primary projects I have been working on since graduation:
