@@ -1,10 +1,12 @@
+# Logan Tracy
+
 ## About Me
 
 ### Introduction
 
 My name is Logan, I am a recent Applied Mathematics graduate from the University of Connecticut. Along with my math coursework, I have taken additional related classes in programming and software development. I also code in my free time and have been working on projects while trying to build my knowledge in full stack development. Technologies I have been focusing on are React, Next.js, and Bootstrap on the front end along with Flask, SQLite, and REST APIs on the back end.
 
-### Education and Relevant Coursework
+### Education, Relevant Coursework, and Resume
 
 **University of Connecticut**<br>
 Bachelor of Arts - Applied Mathematical Sciences<br>
@@ -17,7 +19,7 @@ Intro to Software Engineering, Systems Programming, Computer Networks and Data, 
 **Notable Math and Sciences Coursework:**<br>
 Multivariable Calculus, Elementary Stochastic Processes, Applied Linear Algebra, Intro to Complex Variables, Numerical Analysis 1/2, Physics for Engineers 1/2
 
-[View Full Resume](https://loganstracy.github.io/documents/CS%20Resume%20Logan%20Tracy.pdf)
+**[View Full Resume](https://loganstracy.github.io/documents/CS%20Resume%20Logan%20Tracy.pdf)**
 
 ## Projects
 
