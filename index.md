@@ -22,25 +22,25 @@ Multivariable Calculus, Elementary Stochastic Processes, Applied Linear Algebra,
 There are currently two primary projects I have been working on since graduation:
 
 ### Steam With Friends
-Python, Javascript<br>
-React, React Bootstrap, Flask, REST API, SQLite
-
-[View Repository on Github](https://github.com/loganstracy/steam-with-friends)
+`Python, Javascript<br>
+React, React Bootstrap, Flask, REST API, SQLite`
 
 _Steam with Friends_ is a prototype full stack application, whos purpose is to recommend what games group of friends should play based on applications they share among each other's libraries. The bulk of the application is a Flask server that serves a REST API that takes in a list of users, pulls their libraries from the official [Steam API](https://steamcommunity.com/dev), and returns information that can be processed by the front end application or other users. The frontend is a React Bootstrap application that is currently in progress. It takes in a list of users and queries the server, then presents the response in a clean and concise format.
+
+[View Repository on Github](https://github.com/loganstracy/steam-with-friends)
 
 Front End Progress: ![10%](https://progress-bar.dev/10)<br>
 Back End Progress: &nbsp;![80%](https://progress-bar.dev/80)
 
 ### Sort Visualizer
-Python, Pygame
-
-[View Repository on Github](https://github.com/loganstracy/Sort-Visualizer)
+`Python, Pygame`
 
 _Sort Visualizer_ is a local application that gives a visual representation of how multiple different sorting algorithms work. The main focus of this project is a custom datatype `RewindableList` that tracks changes to a list and allows those changes to be replayed forwards or backwards in a buffer.
+
+[View Repository on Github](https://github.com/loganstracy/Sort-Visualizer)
 
 ## Skills
 These are skills that I have acquired through either coursework at school, projects, or personal study.
 
-Languages: Python, Java, Javascript, C<br>
-Frameworks: React, React-Bootstrap, Next.js, Pygame, REST API, Flask
+**Languages:** Python, Java, Javascript, C<br>
+**Frameworks:** React, React-Bootstrap, Next.js, Pygame, REST API, Flask
